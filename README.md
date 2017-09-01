@@ -1,0 +1,2 @@
+# SublimeText3-UrlOpenAtBrowser
+SublimeText3 で編集中のアクティブドキュメント内のURLを抽出してデフォルトブラウザで開く plugin です。
